@@ -6,6 +6,6 @@ pip install --force-reinstall PyQt5 PyQt5-sip
 
  after installation type:   
 labelme  
-       
+         
 in the cmd 
 
